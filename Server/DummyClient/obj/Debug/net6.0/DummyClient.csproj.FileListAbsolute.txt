@@ -1,0 +1,14 @@
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\bin\Debug\net6.0\DummyClient.exe
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\bin\Debug\net6.0\DummyClient.deps.json
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\bin\Debug\net6.0\DummyClient.runtimeconfig.json
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\bin\Debug\net6.0\DummyClient.dll
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\bin\Debug\net6.0\DummyClient.pdb
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\obj\Debug\net6.0\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\obj\Debug\net6.0\DummyClient.AssemblyInfoInputs.cache
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\obj\Debug\net6.0\DummyClient.AssemblyInfo.cs
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\obj\Debug\net6.0\DummyClient.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\obj\Debug\net6.0\DummyClient.dll
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\obj\Debug\net6.0\refint\DummyClient.dll
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\obj\Debug\net6.0\DummyClient.pdb
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\obj\Debug\net6.0\DummyClient.genruntimeconfig.cache
+C:\Users\Henry\Documents\GitHub\Server\Server\DummyClient\obj\Debug\net6.0\ref\DummyClient.dll
