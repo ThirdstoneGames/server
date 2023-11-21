@@ -15,16 +15,20 @@ namespace DummyClient
             IPEndPoint endPoint = new IPEndPoint(ipAddr, 7000);
 
 
+            // 무한루프를 돌면서 계속 접속 테스트 해보자
             while (true)
             {
-            Socket socket = new Socket(endPoint.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
+                Socket socket = new Socket(endPoint.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
                 try
                 {
                     socket.Connect(endPoint);
                     Console.WriteLine($"Connect to {socket.RemoteEndPoint.ToString()}");
 
-                    byte[] sendBuff = Encoding.UTF8.GetBytes("Hello World");
-                    int sendBytes = socket.Send(sendBuff);
+                    for (int i = 0; i < 5; i++)
+                    {
+                        byte[] sendBuff = Encoding.UTF8.GetBytes("Hello World" + i);
+                        int sendBytes = socket.Send(sendBuff);
+                    }
 
                     byte[] recvBuff = new byte[1024];
                     int recvBytes = socket.Receive(recvBuff);
@@ -40,7 +44,7 @@ namespace DummyClient
                     ex.ToString();
                 }
 
-                Thread.Sleep(100);
+                Thread.Sleep(1000);
             }
         }
     }

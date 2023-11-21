@@ -15,17 +15,17 @@ namespace ServerCore
         {
             try
             {
-                byte[] recvBuff = new byte[1024];
-                int recvBytes;
-                recvBytes = clientSocket.Receive(recvBuff);
-                string recvData = Encoding.UTF8.GetString(recvBuff, 0, recvBytes); // 0: redcvBuff 의 시작 인덱스
-                Console.WriteLine($"[From Client] {recvData}");
+                Session session = new Session();
+                session.Start(clientSocket);
 
                 byte[] sendBuff = Encoding.UTF8.GetBytes("Welcome to MMORPG Server !");
-                clientSocket.Send(sendBuff);
+                session.Send(sendBuff);
 
-                clientSocket.Shutdown(SocketShutdown.Both);
-                clientSocket.Close();
+                Thread.Sleep(1000);
+
+                session.Disconnect();
+
+
             }
             catch(Exception e)
             {

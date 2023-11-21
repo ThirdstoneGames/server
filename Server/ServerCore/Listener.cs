@@ -36,10 +36,16 @@ namespace ServerCore
             }
         }
 
+        // 실제 accept 가 이루어졌다면 OnAcceptCompleted 실행
+        // redzone (멀티스레드에서 문제가 발생할 수 있는 영역
+        // 지금은 데이터가 race condition 을 할 일이 없겠지만
+        // 복잡해 진다면 lock 을 건다거나. 해야 한다. 
         void OnAcceptCompleted(object sender, SocketAsyncEventArgs args)
         {
             if(args.SocketError == SocketError.Success)
             {
+                //SocketAsyncEventArgs 가 Socket 을 뱉어준다
+                //AcceptSocket 은 리스너 전용일때 사용된다
                 _onAcceptHandler.Invoke(args.AcceptSocket);
             }
             else
