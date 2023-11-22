@@ -1,0 +1,21 @@
+﻿@model List<WebApplication5.Models.Document>
+
+@{
+    ViewBag.Title = "List";
+}
+
+
+
+<html>
+<body>
+    <h2>List</h2>
+    @foreach (var item in Model)
+    {
+
+            @item.Document_Number
+            @item.Title
+            @item.Writer
+        
+    }
+</body>
+</html>
