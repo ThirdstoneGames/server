@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Henry\\Documents\\GitHub\\Server\\Server\\DummyClient\\DummyClient.csproj",
+      "projectUniqueName": "D:\\Server\\Server\\DummyClient\\DummyClient.csproj",
       "projectName": "DummyClient",
-      "projectPath": "C:\\Users\\Henry\\Documents\\GitHub\\Server\\Server\\DummyClient\\DummyClient.csproj",
+      "projectPath": "D:\\Server\\Server\\DummyClient\\DummyClient.csproj",
       "packagesPath": "C:\\Users\\Henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Henry\\Documents\\GitHub\\Server\\Server\\DummyClient\\obj\\",
+      "outputPath": "D:\\Server\\Server\\DummyClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

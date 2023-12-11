@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "loT09Bg/y8xQp8ka6Gl2ikAPaOVRwsLRDy0eNAT0EeVLGavLQn6EXLkdVP8pPosg/KEcSSPZaeY7Mmp0vAgDlw==",
+  "dgSpecHash": "kg00iFCGA7TT/pcwE2kHL97VPBxpzCJCm8PNeIhb75S5fVkaPN/BRI0DQ4DRohBcD8hSfqAUHSutdJEwTOA1vQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Henry\\Documents\\GitHub\\Server\\Server\\ServerCore\\ServerCore.csproj",
+  "projectFilePath": "D:\\Server\\Server\\ServerCore\\ServerCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

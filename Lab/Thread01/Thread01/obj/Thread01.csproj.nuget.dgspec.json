@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Server\\Server\\DummyClient\\DummyClient.csproj": {}
+    "D:\\Server\\Lab\\Thread01\\Thread01\\Thread01.csproj": {}
   },
   "projects": {
-    "D:\\Server\\Server\\DummyClient\\DummyClient.csproj": {
+    "D:\\Server\\Lab\\Thread01\\Thread01\\Thread01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Server\\Server\\DummyClient\\DummyClient.csproj",
-        "projectName": "DummyClient",
-        "projectPath": "D:\\Server\\Server\\DummyClient\\DummyClient.csproj",
+        "projectUniqueName": "D:\\Server\\Lab\\Thread01\\Thread01\\Thread01.csproj",
+        "projectName": "Thread01",
+        "projectPath": "D:\\Server\\Lab\\Thread01\\Thread01\\Thread01.csproj",
         "packagesPath": "C:\\Users\\Henry\\.nuget\\packages\\",
-        "outputPath": "D:\\Server\\Server\\DummyClient\\obj\\",
+        "outputPath": "D:\\Server\\Lab\\Thread01\\Thread01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Henry\\AppData\\Roaming\\NuGet\\NuGet.Config",

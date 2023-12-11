@@ -1,0 +1,15 @@
+D:\Server\Lab\Thread01\Thread01\bin\Debug\net6.0\Thread01.exe
+D:\Server\Lab\Thread01\Thread01\bin\Debug\net6.0\Thread01.deps.json
+D:\Server\Lab\Thread01\Thread01\bin\Debug\net6.0\Thread01.runtimeconfig.json
+D:\Server\Lab\Thread01\Thread01\bin\Debug\net6.0\Thread01.dll
+D:\Server\Lab\Thread01\Thread01\bin\Debug\net6.0\Thread01.pdb
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\Thread01.csproj.AssemblyReference.cache
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\Thread01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\Thread01.AssemblyInfoInputs.cache
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\Thread01.AssemblyInfo.cs
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\Thread01.csproj.CoreCompileInputs.cache
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\Thread01.dll
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\refint\Thread01.dll
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\Thread01.pdb
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\Thread01.genruntimeconfig.cache
+D:\Server\Lab\Thread01\Thread01\obj\Debug\net6.0\ref\Thread01.dll
