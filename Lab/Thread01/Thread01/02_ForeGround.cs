@@ -5,7 +5,7 @@
 //using System.Threading.Tasks;
 
 
-//// 코드 자동 정렬 ctrl+k+d
+//코드 자동 정렬 ctrl+k+d
 //namespace Thread01
 //{
 //    internal class ForeGround

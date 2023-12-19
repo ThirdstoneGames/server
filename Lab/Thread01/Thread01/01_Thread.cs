@@ -2,7 +2,7 @@
 
 //namespace Thread01
 //{
-//    class Thread
+//    class Thread01
 //    {
 //        static void MainThread()
 //        {
